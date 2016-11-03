@@ -22,7 +22,7 @@ columns are
 8-BP
 9-raw branch site sequence
 
-indexes included:
+indexes included (these can be downloaded from http://fairbrother.biomed.brown.edu/data/Lariat2016/lariat_scripts.tar.gz)
 
 human (hg19): -i ./hg19/hg19
 mouse (mm9): -i ./mm9/mm9
